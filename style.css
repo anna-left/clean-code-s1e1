@@ -34,7 +34,7 @@ text-align: center;
     display: inline-block;
     flex-grow: 1;
 }
-.task-row-wrapper {
+.added-task__wrapper {
     display: flex;
 }
 ul {
