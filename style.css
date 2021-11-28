@@ -41,7 +41,7 @@ text-align: center;
     margin: 0;
     padding: 0px;
 }
-li,
+.list-item,
 .section-title {
     list-style: none;
 }
