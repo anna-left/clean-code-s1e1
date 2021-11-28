@@ -138,7 +138,7 @@ text-align: center;
 }
 
 /* Completed */
-.completed label {
+.completed .list-item__label {
     color: #888;
 }
 
