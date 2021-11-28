@@ -114,7 +114,7 @@ input#new-task {
 .list-item__checkbox {
     margin: 0 10px;
 }
-.list-item > label {
+.list-item__label {
     padding-left: 10px;
     box-sizing: border-box;
     font-size: 18px;
@@ -147,6 +147,6 @@ button.delete img:hover {
     width: 224px;
 }
 
-.list .list-item.editMode label {
+.list .list-item.editMode .list-item__label {
     display: none;
 }
