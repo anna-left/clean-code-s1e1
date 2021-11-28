@@ -29,6 +29,12 @@
   width: 500px;
   margin: 0 auto 0;
 }
+
+.added-task,
+.added-task__wrapper {
+  margin-top: 16px;
+}
+
 .added-task__input {
   width: 56%;
   display: inline-block;
