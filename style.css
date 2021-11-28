@@ -67,7 +67,7 @@ text-align: center;
 .added-task__add:hover,
 .list-item__edit:hover,
 .list-item__delete:hover {
-    color: #3a3A3a;
+    color: #3a3a3a;
 }
 /* Heading */
 .section-title {
@@ -86,8 +86,8 @@ text-align: center;
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -130,11 +130,11 @@ text-align: center;
 }
 .list-item__img {
     height: 2em;
-    transform: rotateZ(45deg);
+    transform: rotatez(45deg);
     transition: transform 200ms ease-in;
 }
 .list-item__img:hover {
-    transform: rotateZ(0);
+    transform: rotatez(0);
 }
 
 /* Completed */
