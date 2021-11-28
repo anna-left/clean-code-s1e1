@@ -45,7 +45,9 @@ text-align: center;
 .section-title {
     list-style: none;
 }
-input,
+.added-task__input,
+.list-item__checkbox,
+.list-item__text,
 .added-task__add,
 .list-item__edit,
 .list-item__delete {
