@@ -143,11 +143,11 @@ text-align: center;
 }
 
 /* Edit Task */
-.list .list-item input[type=text] {
+.list .list-item .list-item__text {
     display: none;
 }
 
-.list .list-item.editMode input[type=text] {
+.list .list-item.editMode .list-item__text {
     display: inline-block;
     width: 224px;
 }
